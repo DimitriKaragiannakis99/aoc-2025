@@ -1,4 +1,4 @@
-# 🎄 Advent of Code 2025 <img src="https://img.shields.io/badge/Progress-2%20%2F%2024-orange" alt="AOC 2025 Progress">
+# 🎄 Advent of Code 2025 ![AOC 2025 Progress](https://img.shields.io/badge/Progress-2%20%2F%2024-orange)
 
 ---
 
